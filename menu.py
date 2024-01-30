@@ -3,12 +3,14 @@ breakfast = {
     "Chidve": "flattened rice, onion, potatoes, peanuts",
     "Batman juice": "protein powder, spuralina, oat milk, chia seeds",
     "Pathra": "pathra"
+    
 }
 
 meal = {
     "Mediterranean Sando": "bread, hummus, pesto, cucumbers, capsicum",
-    "Street Paneer Sando": "bread, paneer, onion, capsicum, chipotle aioli",
-    "Taiwan Tofu": "tofu, soy sauce, ketchup"
+    "Paneer Sando": "bread, paneer, onion, capsicum, chipotle aioli",
+    "Toronto Tofu": "tofu, soy sauce, ketchup",
+    "Tacos": "taco shells, beans, tomatoes, onions"
 }
 
 finger_food = {
@@ -16,5 +18,7 @@ finger_food = {
     "tortilla chips and cheese": "tortilla chips, cheese, salsa",
     "red velvet cookies": "made good, mg",
     "popcorn": "kala loon, popcorn",
+    "pasta salad": "vinegar, olives, fusili",
+    
 }
 

@@ -1,6 +1,6 @@
 #Govind Sharma
 #25-March-2023
-#deer in headlights program for ADHD object perminance
+#deer in headlights program for indecisive eaters
 
 from menu import breakfast, meal, finger_food
 import menu
@@ -27,7 +27,7 @@ def select_food():
     elif category == "quit" or category == "q":
         exit()
     else:
-        print("go back to elementary school")
+        print("Pardon Garcon!?l")
         
 while True:
     select_food()
