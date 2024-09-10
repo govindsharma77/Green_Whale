@@ -1,9 +1,6 @@
 
 breakfast = {
-    "Chidve": "flattened rice, onion, potatoes, peanuts",
     "Batman juice": "protein powder, spuralina, oat milk, chia seeds",
-    "Pathra": "pathra"
-    
 }
 
 meal = {
